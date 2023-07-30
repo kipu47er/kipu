@@ -1,0 +1,26 @@
+/**
+ * @name hey stupid,i love you :3
+ * @author ЛюБиМиЙ
+ * @version auto updates
+ * @description Theme was created in generator https://vsthemes.org/generator/
+ * @source https://vsthemes.org/en/skins/discord/29460-hey-stupidi-love-you-3.html
+ * @authorLink https://vsthemes.org/user/%D0%9B%D1%8E%D0%91%D0%B8%D0%9C%D0%B8%D0%99/
+ * @authorId 36508
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 0,0,0;
+    --transparencyalpha: 0.1;
+    --messagetransparency: 0.5;
+    --guildchanneltransparency: 0.2;
+    --memberlistransparency: 0;
+    --accentcolor: 55,23,87;
+    --background: url("https://vsthemes.org/uploads/posts/2021-03/1616531044_980254.webp");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
