@@ -1,0 +1,27 @@
+/**
+ * @name Rias Gremory - DxD
+ * @author DenisSmalik
+ * @version auto updates
+ * @description Theme was created in generator https://vsthemes.org/generator/
+ * @source https://vsthemes.org/en/skins/discord/33356-dxd-rias-gremory-the-best-theme-ani.html
+ * @authorLink https://vsthemes.org/user/DenisSmalik/
+ * @authorId 57863
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 26,26,26;
+    --transparencyalpha: 0.1;
+    --messagetransparency: 0.5;
+    --guildchanneltransparency: 0.45;
+    --memberlistransparency: 0.1;
+    --accentcolor: 238,25,14;
+    --background: url("https://vsthemes.org/uploads/posts/2021-05/1622194378_images.webp");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
