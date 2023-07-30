@@ -1,0 +1,27 @@
+/**
+ * @name svin1
+ * @author Jon Gas
+ * @version auto updates
+ * @description Theme was created in generator https://vsthemes.org/generator/
+ * @source https://vsthemes.org/en/skins/discord/28281-svin1.html
+ * @authorLink https://vsthemes.org/user/Jon+Gas/
+ * @authorId 33507
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 0,0,0;
+    --transparencyalpha: 0.2;
+    --messagetransparency: 0.15;
+    --guildchanneltransparency: 0.2;
+    --memberlistransparency: 0;
+    --accentcolor: 87,77,80;
+    --background: url("https://vsthemes.org/uploads/posts/2021-03/1615662249_z3z34dk34-z5.webp");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
