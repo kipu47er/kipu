@@ -1,0 +1,27 @@
+/**
+ * @name zero two(02)
+ * @author Systemd
+ * @version auto updates
+ * @description Theme was created in generator https://vsthemes.org/generator/
+ * @source https://vsthemes.org/en/skins/discord/27768-zero-two02.html
+ * @authorLink https://vsthemes.org/user/Systemd/
+ * @authorId 2
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 0,0,0;
+    --transparencyalpha: 0.25;
+    --messagetransparency: 0.5;
+    --guildchanneltransparency: 0.3;
+    --memberlistransparency: 0.3;
+    --accentcolor: 165,45,238;
+    --background: url("https://vsthemes.org/uploads/posts/2021-03/1614763659_2806701598.webp");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
