@@ -1,5 +1,5 @@
 /**
- * @name rico
+ * @name rico 2
  * @author Gibbu#1211
  * @version 2.0.0
  * @description Display your picture of choice with adjustable blur and brightness.
@@ -16,7 +16,7 @@
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
 
 :root {
-  --background-image: url('https://i.imgur.com/eoVzbnw.png');
+  --background-image: url('https://i.imgur.com/QPR3QFi.png');
   --background-image-blur: 0px;
   --background-image-size: cover;
   --background-image-position: center;
@@ -63,4 +63,3 @@
 }
 
 /* Any custom CSS below here */
-
