@@ -22,7 +22,7 @@
   --serverlist-brightness: 0.4;
   --left-brightness: 0.4;
   --middle-brightness: 0.4;
-  --right-brightness: 0.4;
+  --right-brightness: 0;
   --overlay-brightness: 0.4;
   --gradient-primary: 137,5,5;
   --gradient-secondary: 111,7,7;
