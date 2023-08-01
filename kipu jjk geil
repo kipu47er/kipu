@@ -1,0 +1,58 @@
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://i.imgur.com/LeOkFBt.jpg');
+  --background-image-blur: 0px;
+  --background-image-size: cover;
+  --background-image-position: Bottom left;
+  --popout-image: url('https://i.imgur.com/u2p2CTx.jpg');
+  --popout-image-blur: 0px;
+  --popout-image-size: 100%;
+  --popout-image-position: top center;
+  --overlay-image: url('https://i.imgur.com/FjsmA5h.jpg');
+  --overlay-image-blur: 0px;
+  --overlay-image-size: auto;
+  --overlay-image-position: top center;
+  --home-button-image: url('https://i.imgur.com/GPBAoZo.jpg');
+  --home-button-size: 150%;
+  --home-button-position: center;
+  --serverlist-brightness: 0.4;
+  --left-brightness: 0.4;
+  --middle-brightness: 0.4;
+  --right-brightness: 0.4;
+  --overlay-brightness: 0.4;
+  --gradient-primary: 137,5,5;
+  --gradient-secondary: 111,7,7;
+  --link-colour: #8C00F4;
+  --scrollbar-colour: rgb(53,3,3,1);
+  --gradient-direction: 360deg;
+  --tint-colour: 255,51,159;
+  --tint-brightness: 0;
+  --font: gg sans;
+  --window-padding: 15px;
+  --window-roundness: 35px;
+  --update-notice-1: none;
+  --columns: 1;
+  --guildgap: 1;
+  --aligndms: 0;
+  --rs-small-spacing: 0px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 3.5px;
+  --rs-medium-width: 4.5px;
+  --rs-large-width: 0px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #FF0000;
+  --rs-dnd-color: #009BE1;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
