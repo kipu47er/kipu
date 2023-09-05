@@ -6,7 +6,7 @@
 :root {
   --background-image: url('https://i.imgur.com/odOVDKg.jpg');
   --background-image-blur: 1px;
-  --background-image-size: auto;
+  --background-image-size: cover;
   --background-image-position: center;
   --popout-image: url('https://i.imgur.com/B8XqKjK.jpg');
   --popout-image-blur: 1px;
